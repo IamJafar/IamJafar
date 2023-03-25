@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jafar Hussain
 - 👀 I’m interested in Data Science, Artificial Intelligence and Machine Learning.
-- 🌱 I’m currently learning Python, ML for Data Science
-- 💞️ I’m looking to collaborate on Data Science Projects
+- 🌱 I’m currently learning Python, ML for Data Science.
+- 💞️ I’m looking to collaborate on Data Science Projects.
 - 📫 How to reach me ... jafarhussain8013@gmail.com
 - ⬇️ Connect with me here
 
