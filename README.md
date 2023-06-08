@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jafar Hussain
 - 👀 I’m interested in Data Science, Artificial Intelligence and Machine Learning.
-- 🌱 I’m currently learning Machine Learninng for Data Science.
+- 🌱 I’m currently learning Machine Learninng & Deep Learning for Data Science.
 - 💞️ I’m looking to collaborate on Data Science Projects.
 - 📫 How to reach me ... jafarhussain8013@gmail.com
 - ⬇️ Connect with me here
